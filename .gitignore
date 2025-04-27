@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.mp4
+*.jpg
+*.png
+*.jpeg
+*.gif
+D
+.venv/
+D.mp4
+venv
+*.pyc
+*.mp4
+*.jpg
+*.png
+*.jpeg
+*.gif
